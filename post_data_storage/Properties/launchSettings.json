@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "projeto_nextflix": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7159",
+      "launchBrowser": false
+    }
+  }
+}
